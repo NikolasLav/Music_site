@@ -72,7 +72,7 @@ values /* 9 сборников */
 	
 insert into
 	tracks (track_name, track_length, album_id)
-values /* 20 треков*/
+values /* 19 треков*/
 	('Flamboyant', '0:03:50', 5),
 	('Miracles', '0:03:55', 5),
 	('Paninaro ''95', '0:04:10', 5),
@@ -89,7 +89,6 @@ values /* 20 треков*/
 	('Save Me', '0:03:10', 12),
 	('E.S.T.', '0:05:01', 10),
 	('Bitter Sweet Symphony', '0:05:58', 9),
-	('DNA', '0:03:54', 4),
 	('Viva la Vida', '0:04:04', 3),
 	('To Lose My Life', '0:03:14', 10),
 	('Light Up the Sky', '0:03:20', 13);
